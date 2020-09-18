@@ -12,7 +12,7 @@ namespace YETIAPI.Controllers
 {
     public class PeopleController : Controller
     {
-        private YETIEntities db = new YETIEntities();
+        
 
         // GET: People
         public ActionResult Index()
